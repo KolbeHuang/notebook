@@ -1,0 +1,10 @@
+site_name: HJH Notebooks
+site_url: https://example.com/
+nav:
+    - Home: index.md
+    - About: about.md
+theme:
+  name: material
+  icon:
+    logo: material/notebook-heart
+  favicon: images/favicon.png
